@@ -8,7 +8,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration("classpath:applicationConfig1.xml")
+@ContextConfiguration("classpath:applicationContext1.xml")
 public class Test1 {
 
     @Autowired

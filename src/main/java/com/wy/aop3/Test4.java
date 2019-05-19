@@ -13,7 +13,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
  * @Date: 2019/5/19 1:45
  */
 @RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration("classpath:applicationConfig4.xml")
+@ContextConfiguration("classpath:applicationContext4.xml")
 public class Test4 {
 
     @Autowired
